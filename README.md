@@ -59,3 +59,27 @@
 - **Key Provisions:**
   - **Protection of Aadhaar Data:** Ensures the security and confidentiality of Aadhaar data and mandates stringent measures for data protection.
   - **Authentication of Identity:** Provides for the use of Aadhaar numbers to authenticate the identity of individuals for availing benefits and services.
+
+
+
+
+
+# Basic Cybercrimes in India
+
+| **Cybercrime**                   | **Relevant Act**               | **Section**                                           | **Description**                                                                                     |
+|----------------------------------|--------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Hacking                          | Information Technology Act, 2000 | Section 66                                            | Punishment for hacking with imprisonment up to three years or fine up to Rs. 5 lakh, or both.        |
+| Identity Theft                   | Information Technology Act, 2000 | Section 66C                                           | Punishment for identity theft with imprisonment up to three years and fine up to Rs. 1 lakh.         |
+| Cyber Stalking                   | Information Technology Act, 2000 | Section 66A                                           | Sending offensive messages through communication service, etc., causing annoyance or inconvenience.  |
+| Cyber Terrorism                  | Information Technology Act, 2000 | Section 66F                                           | Acts of cyber terrorism with imprisonment up to life.                                                |
+| Data Theft                       | Information Technology Act, 2000 | Section 43                                            | Penalty and compensation for damage to computer, computer system, etc.                               |
+| Child Pornography                | Information Technology Act, 2000 | Section 67B                                           | Punishment for publishing or transmitting material depicting children in sexually explicit acts.     |
+| Cyber Defamation                 | Information Technology Act, 2000 | Section 66A                                           | Sending offensive messages through communication service, etc. causing harm to reputation.           |
+| Phishing                         | Information Technology Act, 2000 | Section 66D                                           | Punishment for cheating by personation using computer resources.                                     |
+| Spamming                         | Information Technology Act, 2000 | Section 66                                            | Sending unsolicited bulk messages causing annoyance.                                                 |
+| Software Piracy                  | Indian Copyright Act, 1957       | Section 63                                            | Penalty for infringement of copyright including digital piracy.                                      |
+| Cyber Fraud                      | Indian Penal Code, 1860          | Section 420                                           | Cheating and dishonestly inducing delivery of property, including through electronic means.          |
+| Forgery                          | Indian Penal Code, 1860          | Section 463                                           | Forgery of electronic records.                                                                       |
+| Forgery for Purpose of Cheating  | Indian Penal Code, 1860          | Section 468                                           | Forgery intended for the purpose of cheating.                                                        |
+| Online Harassment                | Information Technology Act, 2000 | Section 66A                                           | Sending offensive messages through communication service, etc. causing harassment.                   |
+| Cyber Bullying                   | Information Technology Act, 2000 | Section 66A                                           | Sending offensive messages through communication service, etc. causing bullying.                     |
